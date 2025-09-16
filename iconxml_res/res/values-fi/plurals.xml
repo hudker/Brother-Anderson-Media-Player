@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">%d levyä</item>
+        <item quantity="one">1 levy</item>
+    </plurals>
+    <plurals name="duplicate_three_options_secondary">
+        <item quantity="other">%1$d valituista kohteista on jo soittolistalla \"%2$s\".</item>
+        <item quantity="one">valituista kohteista on jo soittolistalla \"%s\".</item>
+    </plurals>
+    <plurals name="duplicate_two_options_secondary">
+        <item quantity="other">Nämä ovat jo soittolistassa \"%s\".</item>
+        <item quantity="one">Nämä ovat jo soittolistassa \"%s\".</item>
+    </plurals>
+    <plurals name="media_quantity">
+        <item quantity="other">%d mediaa</item>
+        <item quantity="one">1 media</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d mediatiedostot</item>
+        <item quantity="one">1 mediatiedosto</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">%d elokuvaa</item>
+        <item quantity="one">1 elokuvat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="saved_bookmarks_quantity">
+        <item quantity="other">%d kirjanmerkkiä</item>
+        <item quantity="one">1 kirjanmerkki</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="other">%d hakutulosta</item>
+        <item quantity="one">%d hakutulos</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d alihakemistoa</item>
+        <item quantity="one">1 alihakemisto</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"%1$d kanavaa
+"</item>
+        <item quantity="one">"1 kanava
+"</item>
+    </plurals>
+    <plurals name="track_quantity">
+        <item quantity="other">%d ääniraitaa</item>
+        <item quantity="one">1 raita</item>
+    </plurals>
+    <plurals name="tracks_appended">
+        <item quantity="other">%d kappaletta liitetty</item>
+        <item quantity="one">%d kappaleita liitetty</item>
+    </plurals>
+    <plurals name="tracks_inserted">
+        <item quantity="other">%d kappaletta lisätty</item>
+        <item quantity="one">%d kappaletta lisätty</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">%d TV-ohjelmaa</item>
+        <item quantity="one">1 TV-ohjelmat</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d videota</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+</resources>

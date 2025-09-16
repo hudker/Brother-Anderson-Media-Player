@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">%d àlbums</item>
+        <item quantity="one">1 àlbum</item>
+    </plurals>
+    <plurals name="duplicate_three_options_secondary">
+        <item quantity="other">%1$d dels elements seleccionats ja estan a la llista de reproducció \"%2$s\".</item>
+        <item quantity="one">1 dels elements seleccionats ja està a la llista de reproducció \"%s\".</item>
+    </plurals>
+    <plurals name="duplicate_two_options_secondary">
+        <item quantity="other">Aquests elements ja estan a la llista de reproducció \"%s\".</item>
+        <item quantity="one">Aquest element ja està a la llista de reproducció \"%s\".</item>
+    </plurals>
+    <plurals name="media_quantity">
+        <item quantity="other">%d mèdia</item>
+        <item quantity="one">1 multimèdia</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d fitxers multimèdia</item>
+        <item quantity="one">1 fitxer multimèdia</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">%d pel·lícules</item>
+        <item quantity="one">1 pel·lícula</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="saved_bookmarks_quantity">
+        <item quantity="other">%d Preferits desats</item>
+        <item quantity="one">1 Preferit desat</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="other">"S'han trobat %d resultats"</item>
+        <item quantity="one">"s'ha trobat %d resultat"</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d subcarpetes</item>
+        <item quantity="one">1 subcarpeta</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"%1$d canals
+"</item>
+        <item quantity="one">"1 canal
+"</item>
+    </plurals>
+    <plurals name="track_quantity">
+        <item quantity="other">%d pistes</item>
+        <item quantity="one">1 pista</item>
+    </plurals>
+    <plurals name="tracks_appended">
+        <item quantity="other">%d pistes afegides</item>
+        <item quantity="one">%d pista afegida</item>
+    </plurals>
+    <plurals name="tracks_inserted">
+        <item quantity="other">%d pistes inserides</item>
+        <item quantity="one">%d pista inserida</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">%d programes de TV</item>
+        <item quantity="one">1 programa de tele</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">1 vídeo</item>
+    </plurals>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="media_quantity">
+        <item quantity="other">%d media</item>
+        <item quantity="one">1 medium</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d mediefiler</item>
+        <item quantity="one">1 mediefil</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">%d filmer</item>
+        <item quantity="one">1 film</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye varsler</item>
+        <item quantity="one">%d nytt varsel</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="other">%d resultater funnet</item>
+        <item quantity="one">%d resultat funnet</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d undermapper</item>
+        <item quantity="one">1 undermappe</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"%1$d kanaler
+"</item>
+        <item quantity="one">"1 kanal
+"</item>
+    </plurals>
+    <plurals name="track_quantity">
+        <item quantity="other">%d spor</item>
+        <item quantity="one">1 spor</item>
+    </plurals>
+    <plurals name="tracks_appended">
+        <item quantity="other">%d spor tilføyd</item>
+        <item quantity="one">%d spor tilføyd</item>
+    </plurals>
+    <plurals name="tracks_inserted">
+        <item quantity="other">%d spor lagt til</item>
+        <item quantity="one">%d spor lagt til</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">%d tv-serier</item>
+        <item quantity="one">1 tv-serie</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d vidoer</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+</resources>

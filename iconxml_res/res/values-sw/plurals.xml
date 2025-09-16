@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">albamu %d</item>
+        <item quantity="one">Albamu 1</item>
+    </plurals>
+    <plurals name="media_quantity">
+        <item quantity="other">midia %d</item>
+        <item quantity="one">Midia 1</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">faili za midia %d</item>
+        <item quantity="one">faili ya midia 1</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">filamu %d</item>
+        <item quantity="one">filamu 1</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="other">Matokeo %d yamepatikana</item>
+        <item quantity="one">Tokeo %d limepatikana</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">folda dogo %d</item>
+        <item quantity="one">folda dogo 1</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"Chaneli %1$d 
+"</item>
+        <item quantity="one">"Chaneli 1 
+"</item>
+    </plurals>
+    <plurals name="track_quantity">
+        <item quantity="other">nakala %d</item>
+        <item quantity="one">nakala 1</item>
+    </plurals>
+    <plurals name="tracks_appended">
+        <item quantity="other">Nakala %d zimeambatishwa</item>
+        <item quantity="one">Nakala %d imeambatishwa</item>
+    </plurals>
+    <plurals name="tracks_inserted">
+        <item quantity="other">Nakala %d zimeingizwa</item>
+        <item quantity="one">Nakala %d imeingizwa</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">Vipindi vya televisheni %d</item>
+        <item quantity="one">Kipindi cha televisheni 1</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">video %d</item>
+        <item quantity="one">video 1</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VLC" parent="@style/Theme.VLC.19">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.VLC.Black" parent="@style/Theme.VLC.Black.19">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="WidgetConfiguration" parent="@style/WidgetConfiguration.19">
+        <item name="android:statusBarColor">?background_default</item>
+        <item name="android:navigationBarColor">?background_default</item>
+    </style>
+</resources>

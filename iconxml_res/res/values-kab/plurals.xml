@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">%d n walbumen</item>
+        <item quantity="one">1 n walbum</item>
+    </plurals>
+    <plurals name="media_quantity">
+        <item quantity="other">%d n yimidyaten</item>
+        <item quantity="one">1 n umidya</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d n yifuyla imidyaten</item>
+        <item quantity="one">1 n ufaylu amidya</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">%d n yisura</item>
+        <item quantity="one">1 n usaru</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="other">%d n igmaḍ n unadi ttwafen</item>
+        <item quantity="one">%d n ugmuḍ n unadi yettwaf</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d n yikaramen inaddawen</item>
+        <item quantity="one">1 n ukaram anaddaw</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"%1$d n yibuda
+"</item>
+        <item quantity="one">"1 n ubadu
+"</item>
+    </plurals>
+    <plurals name="tracks_inserted">
+        <item quantity="other">%d n tezribin ttwagrent</item>
+        <item quantity="one">%d n tezribt tettwager</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">%d n yimazraren n tiliẓri</item>
+        <item quantity="one">1 n umazrar n tiliẓri</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d n tvidyutin</item>
+        <item quantity="one">1 n tvidyut</item>
+    </plurals>
+</resources>

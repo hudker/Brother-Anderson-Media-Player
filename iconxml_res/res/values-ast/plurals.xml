@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="albums_quantity">
+        <item quantity="other">%d álbumes</item>
+        <item quantity="one">1 álbum</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="other">%d ficheros multimedia</item>
+        <item quantity="one">1 ficheru multimedia</item>
+    </plurals>
+    <plurals name="movies_quantity">
+        <item quantity="other">%d películes</item>
+        <item quantity="one">1 película</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="other">%d socarpetes</item>
+        <item quantity="one">1 socarpeta</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="other">"%1$d canales
+"</item>
+        <item quantity="one">"1 canal
+"</item>
+    </plurals>
+    <plurals name="tvshow_quantity">
+        <item quantity="other">%d programes de TV</item>
+        <item quantity="one">1 programa de TV</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">1 videu</item>
+    </plurals>
+</resources>
